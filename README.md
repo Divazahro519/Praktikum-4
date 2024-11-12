@@ -99,13 +99,13 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/flowchartprak5.png" width="500">
+<img src="/output.png" width="500">
 
 
 
 ## Flowchart Program
 
-<img src="/output.png" width="500">
+<img src="/flowchartprak5.png" width="500">
 
 
 ## Requirements
