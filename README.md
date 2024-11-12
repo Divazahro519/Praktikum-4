@@ -48,6 +48,9 @@ Program terdiri dari dua komponen utama:
      * Nilai Tugas
      * Nilai UTS
      * Nilai UAS
+
+<img src="/input.png" width="500">
+
    - Data divalidasi untuk memastikan format yang benar
 
 3. *Proses Perhitungan*
@@ -99,7 +102,7 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/output.png" width="500">
+<img src="/output1.png" width="500">
 
 
 
